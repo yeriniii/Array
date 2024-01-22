@@ -116,7 +116,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Standard반 배열 API</h1>
+      <h1>배열에 대한 함수들 API</h1>
       <div>
         <input
           placeholder="Enter text"
